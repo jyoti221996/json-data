@@ -76,4 +76,44 @@
             "YOE": 2
         }
     ]
+,
+
+"kendoDataJsonForChart": [
+    {
+        "name": "Arun",
+        "Company": "Asset Analytix",
+        "Designation": "Graphic Designer",
+        "DOJ": "10 Apr 2023",
+        "YOE": 1
+    },
+    {
+        "name": "Nilesh",
+        "Company": "Asset Analytix",
+        "Designation": "Team Lead",
+        "DOJ": "12 Jan 2020",
+        "YOE": 4
+    },
+    {
+        "name": "Tejas",
+        "Company": "Asset Analytix",
+        "Designation": "Sr. UI Developer",
+        "DOJ": "12 march 2021",
+        "YOE": 3
+    },
+    {
+        "name": "Jyoti",
+        "Company": "Rainbow Infotech",
+        "Designation": "Jr. UI Developer",
+        "DOJ": "3 Jan 2022",
+        "YOE": 2
+    },
+    {
+        "name": "Akash",
+        "Company": "Rainbow Infotech",
+        "Designation": "Jr. UI Developer",
+        "DOJ": "15 Jan 2022",
+        "YOE": 2
+    }
+]
+
 }
